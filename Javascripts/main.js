@@ -1,4 +1,4 @@
-import cheese from './components/cheese.js.js'
+import cheese from './components/cheese.js'
 
 const init = () => {
     cheese.printCheeseOptions();
